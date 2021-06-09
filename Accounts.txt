@@ -5,3 +5,4 @@ Bunny			102
 Boy			103
 Bard 			104
 wolf			105
+Morgan			106
