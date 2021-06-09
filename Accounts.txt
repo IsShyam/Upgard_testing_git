@@ -3,3 +3,4 @@ Shyam			100
 Sai			101
 Bunny			102
 Boy			103
+Bard 			104
