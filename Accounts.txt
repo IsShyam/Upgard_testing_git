@@ -4,3 +4,4 @@ Sai			101
 Bunny			102
 Boy			103
 Bard 			104
+wolf			105
