@@ -6,3 +6,4 @@ Boy			103
 Bard 			104
 wolf			105
 Morgan			106
+adler			107
